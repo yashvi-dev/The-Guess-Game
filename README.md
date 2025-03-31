@@ -34,8 +34,5 @@ A **fun and interactive** **Number Guessing Game** where you try to guess a rand
 ## 💖 Contributing
 Feel free to **fork**, suggest **improvements**, or report any **issues** to make the game even cuter and more fun. 💕
 
-## 📜 License
-This project is open-source and available under the **MIT License**.
 
----
-Made with ❤️ by [Your Name] ✨
+
